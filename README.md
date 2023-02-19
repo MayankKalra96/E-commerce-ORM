@@ -9,15 +9,19 @@
 
 
 Create Schema and Seed data
+
 drive: https://drive.google.com/file/d/1_KSL8cwIbPaj3IDIjq6kXx26bKzH1A1i/view?usp=share_link
 
 GET routes to return all categories, all products
+
 drive: https://drive.google.com/file/d/1_KSL8cwIbPaj3IDIjq6kXx26bKzH1A1i/view?usp=share_link
 
 GET routes to return a single category, a single product, and a single tag
+
 drive: https://drive.google.com/file/d/1ERFnhqsXQoa3CsI_kPdKqmjoIO9aTilo/view?usp=share_link
 
 POST, PUT, and DELETE routes for categories
+
 drive: https://drive.google.com/file/d/1qDduRHOazsH5798-5jJB_XsmgKAlAwsy/view?usp=share_link
 
 ### User Story
